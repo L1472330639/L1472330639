@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rallyburk
-- 👀 I’m interested in Network penetration and play some game，as csgo
+- 👀 I’m interested in Network penetration and play some game
 - 🌱 I’m currently learning python and penetration
 - 💞️ I’m looking to collaborate on study
 - 📫 How to reach me  WeChat：L1472330639
